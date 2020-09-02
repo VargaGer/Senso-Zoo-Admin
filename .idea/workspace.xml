@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ce89c90-c66b-4775-a485-01b10957f953" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b1mpIvBoNryM3y6sQqdBIWY5Uv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ger\PycharmProjects\AllatkertAdmin\pages\main_page" />
+      <recent name="C:\Users\Ger\PycharmProjects\AllatkertAdmin\tests" />
+      <recent name="C:\Users\Ger\PycharmProjects\AllatkertAdmin\utilities" />
+      <recent name="C:\Users\Ger\PycharmProjects\AllatkertAdmin\base" />
+      <recent name="C:\Users\Ger\PycharmProjects\AllatkertAdmin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ger\PycharmProjects\AllatkertAdmin\pages\allatok_page" />
+      <recent name="C:\Users\Ger\PycharmProjects\AllatkertAdmin" />
+      <recent name="C:\Users\Ger\PycharmProjects\AllatkertAdmin\base" />
+      <recent name="C:\Users\Ger\PycharmProjects\AllatkertAdmin\utilities" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ce89c90-c66b-4775-a485-01b10957f953" name="Default Changelist" comment="" />
+      <created>1587808154550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587808154550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="0" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599050195221">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="0" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1599050195221" />
+    <state x="294" y="150" key="com.intellij.ide.util.TipDialog" timestamp="1599032915589">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="294" y="150" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1599032915589" />
+  </component>
+</project>

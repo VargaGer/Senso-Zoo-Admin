@@ -1,0 +1,89 @@
+09/02/2020 10:11:17 AM - AllatokPage - INFO: Element Found with locator: Új állat hozzáadása and locator type: link
+09/02/2020 10:11:18 AM - AllatokPage - INFO: Clicked on element with locato09/02/2020 10:11:29 AM - Util - INFO: Wait09/02/2020 10:11:29 AM09/02/2020 10:11:29 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:30 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:31 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:31 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:31 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:32 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:32 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:32 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:43 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:43 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:44 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:45 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:45 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:46 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:46 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:46 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:47 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:47 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:48 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:58 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:59 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:59 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:59 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:59 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:59 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:11:59 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:12:00 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:12:13 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:12:13 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:12:24 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:12:24 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:12:35 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:12:35 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:12:45 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:12:46 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:12:56 AM - Util - INFO: Wait :: '0' seconds for 
+09/02/2020 10:12:57 AM - Util - INFO: Wait :: '0' seconds for 
+tor type: id
+09/02/2020 10:11:44 AM - AllatokPage - INFO: Sent data on element with locator: latin-name locatorType: id
+09/02/2020 10:11:44 AM - AllatokPage - INFO: Element Found with locator: .save-confirmed-item and locator type: css
+09/02/2020 10:11:44 AM - AllatokPage - INFO: Element Found with locat09/02/2020 10:11:46 AM - LoginPage - INFO: Element Found with locator: user-name and locator type: id
+09/02/2020 10:11:46 AM - LoginPage - INFO: Sent data on element with locator: user-name locatorType: id
+09/02/2020 10:11:46 AM - LoginPage - INFO: Element Found with locator: password and locator type: id
+09/02/2020 10:11:46 AM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+09/02/2020 10:11:46 AM - LoginPage - INFO: Element Found with locator: login-user and locator type: id
+09/02/209/02/2020 10:11:47 AM - SeleniumDrivers - INFO: Element Found with locator: //a[@href='/allatker09/02/2020 10:11:52 AM - LoginPage - INFO: Element not found with locator: user-name and locator type: id
+09/02/2020 10:11:52 AM - LoginPage - INFO: Cannot send data on the element with locator: user-name locatorType: id
+09/02/2020 10:11:55 AM - LoginPage - INFO: Element not found with locator: password and locator type: id
+09/02/2020 10:11:55 AM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+09/02/2020 10:11:58 AM - LoginPage - INFO: Element not found with locator: login-user and locator type: id
+09/02/2020 10:11:58 AM - LoginPage - INFO: Cannot click on the element with locator: login-user locatorType: id
+09/02/2020 10:11:58 AM - LoginPage - INFO: Screenshot saved to directory: C:\Users\Ger\PycharmProjects\Senso-Zoo-Admin\base\../screenshots/login-user not found.159909/02/2020 10:109/02/2020 10:12:06 AM - LoginPage - INFO: Element not found with locator: user-name and locator type: id
+09/02/2020 10:12:06 AM - LoginPage - INFO: Cannot send data on the element with locator: user-name locatorType: id
+09/02/2020 10:12:09 AM - LoginPage - INFO:09/02/2020 10:12:12 AM - SeleniumDrivers - INFO: Element Found with locator: //a[@href='/allatkert-admin/animals'] and locator type: xpath
+09/02/2020 10:12:13 AM - SeleniumDrivers - INFO: Clicked on element with locator: //a[@href='/allatkert-admin/animals'] locatorType: xpath
+09/02/2020 10:12:13 AM - SeleniumDrivers - INFO: Element Found with locator: name and locator type: id
+09/02/2020 10:12:14 AM - SeleniumDrivers - INFO: Sent data on element with locator: name locatorType: id
+09/02/2020 10:12:14 AM - SeleniumDrivers - INFO: Random chars: DMZMGW9fkf56xklDC1ufQELHbz09/02/2020 10:12:17 AM - LoginPage - INFO: Element not found with locator: user-name and locator type: id
+09/02/2020 10:12:17 AM - LoginPage - INFO: Cannot send data on the element with locator: user-name locatorType: id
+09/02/2020 10:12:20 AM - LoginPage - INFO: Element not found with locator: password and locator type: id
+09/02/2020 10:12:20 AM - LoginPage - INFO: Cannot s09/02/2020 10:12:23 AM - SeleniumDrivers - INFO: Element Found with locator: //a[@href='/allatkert-admin/animals'] and locator type: xpath
+09/02/2020 10:12:24 AM - SeleniumDrivers - INFO: Clicked on element with locator: //a[@href='/allatkert-admin/animals'] locatorType: xpath
+09/02/2020 10:12:24 AM - SeleniumDrivers - INFO: Element Found with locator: kingdom and locator type: id
+09/02/2020 10:12:25 AM - SeleniumDrivers - INFO: Sent data on element with lo09/02/2020 10:12:28 AM - LoginPage - INFO: Element not found with locator: user-name and locator type: id
+09/02/2020 10:12:28 AM - LoginPage - INFO: Cannot send data on the element with locator: user-name locatorType: id
+09/02/2020 10:12:31 AM - LoginPage - INFO: Element not found with locator: password and locator type: id
+09/02/2020 10:12:31 AM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+09/02/2020 10:12:309/02/2020 10:12:34 AM - SeleniumDrivers - INFO: Element Found with locator: //a[@href='/allatkert-admin/animals'] and locator type: xpath
+09/02/09/02/2020 10:12:35 AM - AllatokPage - INFO: Element Found with locator: Új állat hozzáadása and locator type: link
+09/02/2020 10:12:09/02/2020 10:12:35 AM - SeleniumDrivers - INFO: Element Found with locator: class and locator type:09/02/2020 10:12:46 AM - AllatokPage - INFO: Element Found with locator: Új állat hozzáadása and locator type: link
+09/02/2020 10:12:46 AM - AllatokPage - INFO: Clicked on element with locator: Új állat hozzáadása locatorType: link
+09/02/2020 10:12:56 AM - AllatokPage - INFO: Element Found with locator: Új állat hozzáadása and locator type: link
+09/02/2020 10:12:57 AM - AllatokPage - INFO: Clicked on element with locator: Új állat hozzáadása locatorType: link
+ - LoginPage - INFO: Element not found with locator: login-user and lo09/02/2020 10:12:45 AM - SeleniumDrivers - INFO: Element Found with locator: //a[@href='/allatkert-admin/animals'] and locator type: xpath
+09/02/2020 10:12:45 AM - SeleniumDrivers - INFO: Clicked on element with locator: //a[@href='/allatkert-admin/animals'] locatorType: xpath
+09/02/2020 10:12:46 AM - Sel09/02/2020 10:12:50 AM - LoginPage - INFO: Element not found with locator: user-name and locator type: id
+09/02/2020 10:12:50 AM - LoginPage - INFO: Cannot send data on the element with locator: user-name locatorType: id
+09/02/2020 10:12:53 AM - LoginPage - INFO: Element not found with locator: password and locator type: id
+09/02/2020 10:12:53 AM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+09/02/2020 10:12:56 AM - LoginPage - INFO: Element not found with locator: login-user and locator type: id
+09/02/2020 10:12:56 AM - LoginPage - INFO: Cannot click on09/02/2020 10:12:56 AM - SeleniumDrivers - INFO: Element Found with locator: //a[@href='/allatkert-admin/animals'] and locator type: xpath
+09/02/2020 10:12:56 AM - SeleniumDrivers - INFO: Clicked on element with locator: //a[@href='/allatkert-admin/animals'] locatorType: xpath
+09/02/2020 10:12:57 AM - SeleniumDrivers - INFO: Element Found with locator: phylum and locator type: id
+09/02/2020 10:12:57 AM - SeleniumDrivers - INFO: Sent data on element with locator: phylum locatorType: id
+09/02/2020 10:12:57 AM - SeleniumDrivers - INFO: Random chars: mynK0BBgk4rAlkLcZZhSaA62v9By89VUHKjo
+09/02/2020 10:12:57 AM - SeleniumDrivers - INFO: Element Found with locator: phylum and locator type: id
+09/02/2020 10:12:57 AM - SeleniumDrivers - INFO: Locator: 'phylum' attribute value = mynK0BBgk4rAlkLcZZhSaA62v9By89VUHKj
+09/02/2020 10:12:57 AM - SeleniumDrivers - INFO: Wrote chars: mynK0BBgk4rAlkLcZZhSaA62v9By89VUHKj
