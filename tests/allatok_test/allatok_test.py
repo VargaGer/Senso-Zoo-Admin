@@ -6,6 +6,8 @@ from utilities.util import Util
 import unittest
 import pytest
 
+# Git test comment
+
 @pytest.mark.usefixtures("oneTimeSetUp", "setUp")
 class AllatokTests(unittest.TestCase):
 

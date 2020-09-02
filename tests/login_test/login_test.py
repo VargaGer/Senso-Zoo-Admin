@@ -18,3 +18,7 @@ class LoginTests(unittest.TestCase):
     def test_validLogin(self):
         self.lp.login("test", "test")
         self.lp.verifyPageTitle("Főoldal | Budapesti Állatkert Admin")
+
+    def test_invalidLogin_emptyEmail(self):
+        self.lp.login(password="test")
+        
